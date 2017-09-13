@@ -1,0 +1,366 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+	font-size: 1.5625vw;
+	font-family: "Microsoft Yahei";
+}
+
+#music{
+	position: fixed;
+	top: 3vh;
+	right: 4vw;
+	z-index: 5;
+	width: 15vw;
+	height: 15vw;
+	border: 4px solid #ef1639;
+	border-radius: 50%;
+	background-color: #fff;
+}
+
+#music > img:first-of-type {
+	position: absolute;
+	top: 24%;
+	right: 2.5%;
+	width: 28.42%;
+}
+
+#music > img:last-of-type {
+	position: absolute;
+	width: 79%;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	z-index: -1;
+}
+
+#music > img.play {
+	-webkit-animation: music_disc 2s linear infinite;
+	        animation: music_disc 2s linear infinite;
+}
+
+@-webkit-keyframes music_disc{
+	0% {
+		-webkit-transform: rotate(0deg);
+		        transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		        transform: rotate(360deg);
+	}
+}
+
+@keyframes music_disc{
+	0% {
+		-webkit-transform: rotate(0deg);
+		        transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		        transform: rotate(360deg);
+	}
+}
+
+.wo {
+	font-size: 10rem;
+	position: fixed;
+	left: -400px;
+	top: 30%;
+	/* background:-webkit-linear-gradient(left,#E72431,#FBC422 50%,#0EA74A 75%,#007FCB);
+	-webkit-background-clip:text;只有webkit内核支持text的剪切模式
+	color:transparent; */
+	color: #094;
+	line-height: 1.5em;
+	display: inline-block;
+	border-bottom: 2px solid #094;
+	-webkit-animation: wo_desc 1s ease .5s both;
+	        animation: wo_desc 1s ease .5s both;
+}
+
+@-webkit-keyframes wo_desc {
+	100% {
+		-webkit-transform: translateX(400px);
+		        transform: translateX(400px);
+	}
+}
+
+@keyframes wo_desc {
+	100% {
+		-webkit-transform: translateX(400px);
+		        transform: translateX(400px);
+	}
+}
+
+.motto {
+	font-size: 5rem;
+	position: fixed;
+	right: -500px;
+	top: 50%;
+	color: #666;
+	display: inline-block;
+	-webkit-animation: motto_desc 1s ease .5s both;
+	        animation: motto_desc 1s ease .5s both;
+}
+
+@-webkit-keyframes motto_desc {
+	100% {
+		-webkit-transform: translateX(-520px);
+		        transform: translateX(-520px);
+	}
+}
+
+@keyframes motto_desc {
+	100% {
+		-webkit-transform: translateX(-520px);
+		        transform: translateX(-520px);
+	}
+}
+
+
+#page1 {
+	width: 100vw;
+	height: 100vh;
+	// background: url("../images/bg2.jpg") no-repeat;
+	background-color: #e4e0ee;
+	position: fixed;
+	z-index: 1;
+	-webkit-animation: page_tran 1s linear 4s both;
+	        animation: page_tran 1s linear 4s both;
+}
+
+@-webkit-keyframes page_tran {
+	100% {
+		-webkit-transform: scale(0);
+		        transform: scale(0);
+		opacity: 0;
+	}
+}
+@keyframes page_tran {
+	100% {
+		-webkit-transform: scale(0);
+		        transform: scale(0);
+		opacity: 0;
+	}
+}
+
+@-webkit-keyframes page_tran1 {
+	100% {
+		opacity: 0;
+	}
+}
+@keyframes page_tran1 {
+	100% {
+		opacity: 0;
+	}
+}
+
+#page2 {
+	width: 100vw;
+	height: 100vh;
+	background: url("../images/bg1.jpeg") no-repeat;
+	overflow: hidden;
+	position: absolute;
+}
+
+#page2 img{
+	width: 40vw;
+	margin: 0 4vw;
+	display: inline-block;
+}
+
+#page2 img:first-of-type {
+	position: relative;
+	top: -10vh;
+	-webkit-animation: ten_logo 1s ease 5s both;
+	        animation: ten_logo 1s ease 5s both;
+}
+
+@-webkit-keyframes ten_logo {
+	100% {
+		-webkit-transform: translateY(45vh);
+		        transform: translateY(45vh);
+	}
+}
+
+@keyframes ten_logo {
+	100% {
+		-webkit-transform: translateY(45vh);
+		        transform: translateY(45vh);
+	}
+}
+
+#page2 img:last-of-type {
+	position: fixed;
+	bottom: -10vh;
+	right: 0;
+	-webkit-animation: wt_logo 1s ease 5s both;
+	        animation: wt_logo 1s ease 5s both;
+}
+
+@-webkit-keyframes wt_logo {
+	100% {
+		-webkit-transform: translateY(-69vh);
+		        transform: translateY(-69vh);
+	}
+}
+
+@keyframes wt_logo {
+	100% {
+		-webkit-transform: translateY(-69vh);
+		        transform: translateY(-69vh);
+	}
+}
+
+#page2 p {
+	position: fixed;
+	font-size: 4rem;
+	background-color: #00b74f;
+	color: #fff;
+	padding: 10px;
+	border-radius: 3px;
+	top: 50vh;
+	width: 100vw;
+	text-align: center;
+	text-shadow: 0 0 50px #fff;
+	-webkit-animation: first_demo 1s ease 6s both,but_demo 2s linear 5s infinite;
+	        animation: first_demo 1s ease 6s both,but_demo 2s linear 5s infinite;
+}
+
+@-webkit-keyframes first_demo {
+	0% {
+		-webkit-transform: translateY(50vh);
+		        transform: translateY(50vh);
+		opacity: 0;
+	}
+	100% {
+		-webkit-transform: translateY(0);
+		        transform: translateY(0);
+		opacity: 1;
+	}
+}
+
+@keyframes first_demo {
+	0% {
+		-webkit-transform: translateY(50vh);
+		        transform: translateY(50vh);
+		opacity: 0;
+	}
+	100% {
+		-webkit-transform: translateY(0);
+		        transform: translateY(0);
+		opacity: 1;
+	}
+}
+
+@-webkit-keyframes but_demo {
+	0% {
+		text-shadow: 0 0 50px #fff;
+	}
+	50% {
+		text-shadow: none;
+	}
+	100% {
+		text-shadow: 0 0 50px #fff;
+	}
+}
+
+@keyframes but_demo {
+	0% {
+		text-shadow: 0 0 50px #fff;
+	}
+	50% {
+		text-shadow: none;
+	}
+	100% {
+		text-shadow: 0 0 50px #fff;
+	}
+}
+
+.next {
+	position: fixed;
+	bottom: 5vh;
+	width: 50px;
+	left: 0;
+	right: 0;
+	margin: auto;
+	opacity: 0;
+	-webkit-animation: next_demo 1s linear 7s infinite;
+	        animation: next_demo 1s linear 7s infinite;
+}
+
+@-webkit-keyframes next_demo {
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: .5;
+		-webkit-transform: translateY(-3vh);
+		        transform: translateY(-3vh);
+	}
+	100% {
+		opacity: 0;
+		-webkit-transform: translateY(-5vh);
+		        transform: translateY(-5vh);
+	}
+}
+
+@keyframes next_demo {
+	0% {
+		opacity: 0;
+	}
+	50% {
+		opacity: .5;
+		-webkit-transform: translateY(-3vh);
+		        transform: translateY(-3vh);
+	}
+	100% {
+		opacity: 0;
+		-webkit-transform: translateY(-5vh);
+		        transform: translateY(-5vh);
+	}
+}
+
+.fadeout {
+	opacity: .5;
+	-webkit-transform: translateY(-100%);
+			transform: translateY(-100%);
+	-webkit-transition: all 1s linear .5s;
+			transition: all 1s linear .5s;
+}
+
+#page3 {
+	width: 100vw;
+	height: 100vh;
+	background-color: #F6F6F6;
+	overflow: hidden;
+	position: absolute;
+	z-index: -3;
+}
+
+#page3 .title {
+	position: relative;
+	top: 5vh;
+	font-size: 4rem;
+	line-height: 2em;
+	opacity: 0;
+	// animation: title_demo 1s linear 7s both;
+}
+
+.fadeIn {
+	opacity: 1;
+	-webkit-transition: all 1s linear 1s;
+			transition: all 1s linear 1s;
+}
+
+// @keyframes title_demo {
+// 	100% {
+// 		opacity: 1;
+// 	}
+// }
+
+#page3 .title:first-of-type {
+	border-bottom: 1px solid #000;
+	margin-left: 5vw;
+}
