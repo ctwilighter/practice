@@ -1,0 +1,56 @@
+html,body{width: 100%;margin: 0;padding: 0;}
+body{font: 14px Tahoma, Geneva, sans-serif;color: #333330;background: #F3F5F7;line-height: 1.5em;}
+
+a{text-decoration: none;color: #636363;}
+a:hover,.current{color: #000;}
+
+ul{list-style: none;}
+
+
+h3 span,h4 span{float: right;text-align: right; font-size: 0.9em;}
+
+/*头部导航样式*/
+header{background-color: #fff;padding-bottom: 10px;width: 100%;}
+header h1{font-family:"Microsoft YaHei",Arial,Helvetica,sans-serif,"SimSun";margin-bottom: 0;}
+header h1 span{font-size: 0.7em;}
+header ul#navbar, .right{float: right;}
+header h1,header ul#navbar li, .left{float: left;}
+header nav{height: 4em;}
+header nav a{color: #a1a1a1}
+header h1{font-size: 2em;line-height: 18px;}
+header ul#navbar{padding: 0;text-align: center;}
+header ul#navbar li{font-size: 1.2em;margin-right: 40px;margin-top: 12px;}
+header ul#nav-icon{float: right;margin-top: 1.5em;display: none;padding: 0;}
+header ul#nav-icon li{width: 2em;height: 3px;background-color: #F01414 ;margin-top: 5px;}
+
+/*底部版权样式*/
+footer,footer a{background-color: #fff;clear: both;color: #B3B3B3;width: 100%;}
+footer div.left{float: left;width: 65%;}
+footer nav{width: 100%;}
+footer ul{padding: 0;width: 100%;}
+footer ul li{float: left;border-left: 1px solid #B3B3B3;text-align: center;display: inline-block;width: 33%;}
+footer ul li:first-child{border: none;}
+footer #motto{line-height: 2em;}
+address{clear: both;text-align: center;line-height: 5em;border-top: 1px solid #B3B3B3;}
+
+/*后台控制面板*/
+.container{width: 90%;margin: 0 auto;padding: 0 10px;}
+.list-left{width: 25%;background: #30343f;color: #fff;float: left;height: 520px;}
+.list-left p{background-color: #ccc;color: #000;text-align: center;line-height: 2.5em;font-size: 1.3em;margin: 0;}
+.list-left ul li ul{margin: 0;padding: 10px 20px;}
+.list-left a{color: #ccc;}
+.list-left a:hover{color: #ddd;}
+.list-right{width: 75%;float: left;height: 100%;overflow: hidden;}
+
+@media only screen and (min-width: 550px){
+	.left{width: 65%;min-width: 320px;clear: both;}
+	.right{width: 30%;}
+}
+
+@media only screen and (max-width: 550px) {
+	.left,.right{width: 100%;margin: 0;}
+	footer div.left{width: 100%;}
+	header ul#nav-icon{display: block;position: relative;}
+	header ul#navbar{display: none;}
+	header ul#navbar li{margin:0 10px 0 0;}
+}

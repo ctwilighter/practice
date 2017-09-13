@@ -1,0 +1,25 @@
+<?php
+require_once '../include.php';
+$username=$_POST['username'];
+$password=md5($_POST['password']);
+$verify=$_POST['verify'];
+$verify1=$_SESSION['verify'];
+$autoFlag=$_POST['autoFlag'];
+if ($verify==$verify1){
+    $sql="select * from web_admin where username='{$username}' and password='{$password}'";
+    $row=checkAdmin($sql);
+    if ($row){
+        if ($autoFlag){
+            setcookie("adminId",$row['adminid'],time()+7*24*3600);
+            setcookie("adminName",$row['username'],time()+7*24*3600);
+        }
+        $_SESSION['adminName']=$row['username'];
+        $_SESSION['adminId']=$row['adminid'];
+        //header("location:index.php");
+        alertMsg("登陆成功", "index.php");
+    }else{
+        alertMsg("登录失败，重新登陆", "login.php");
+    }
+}else{
+    alertMsg("验证码错误", "login.php");
+}

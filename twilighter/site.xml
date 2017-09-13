@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset>
+    <url>
+        <loc>http://www.twilighter.cn/index.php</loc>
+        <lastmod>2017-04-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>http://www.twilighter.cn/about_me.php</loc>
+        <lastmod>2017-04-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://www.twilighter.cn/essay.php</loc>
+        <lastmod>2017-04-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://www.twilighter.cn/clessay.php</loc>
+        <lastmod>2017-04-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://www.twilighter.cn/message.php</loc>
+        <lastmod>2017-04-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://www.twilighter.cn/detail.php</loc>
+        <lastmod>2017-04-27</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
