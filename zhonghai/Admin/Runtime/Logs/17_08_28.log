@@ -1,0 +1,10 @@
+[ 2017-08-28T21:58:22+08:00 ] 0.0.0.0 /zhonghai/admin.php/Cases/editsort
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002360s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_cases` [ RunTime:0.018024s ]
+SQL: UPDATE `zh_cases` SET `sort`=9 WHERE ( `id` = 9 ) [ RunTime:0.001967s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_cases` WHERE ( `id` = 9 ) LIMIT 1   [ RunTime:0.000410s ]
+

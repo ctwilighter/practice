@@ -1,0 +1,48 @@
+﻿<include file="./App/Tpl/Public/header.html" />
+<!--end头文件-->
+<!-- nav -->
+<div class="tnav" id="slideNav">
+	<div class="tnav tnav02 w_1200">
+		<ul class="tnavlist">
+			<li><a href="{:U('Index/index')}" class="dt">首页</a></li>
+			<li>
+				<a href="{:U('Index/desc')}" class="dt">公司简介</a>
+			</li>
+			<li>
+				<a href="{:U('Server/server')}" class="dt">服务项目</a>
+			</li>
+			<li><a href="{:U('Cases/cases')}" class="dt">成功案例</a></li>
+			<li class="current_nav"><a href="{:U('Article/news')}" class="dt">企业新闻</a></li>
+			<li><a href="{:U('Recruit/recruit')}" class="dt">企业招聘</a></li>
+			<li><a href="{:U('Index/contact')}" class="dt">联系我们</a></li>
+		</ul>
+		<i class="tavline slideline" id="slideNavLine"></i>
+	</div>
+</div>
+<!-- end nav -->
+<!--star动画-->
+<div class="banner_05">
+
+</div>
+<!--end动画-->
+<!--star一行-->
+<div class="w_1200 news">
+	<div class="content">
+		<volist name="list" id="vo">
+			<div class="item">
+				<div class="title"><img src="<?php echo IMG_URL;?>edit.png">{$vo['title']}</div>
+				<a href="__APP__/Article/news_detail/id/{$vo['id']}">
+					<div class="content">{$vo['desc']}
+						<p class="date">{:date('Y年m月d日',$vo['time'])}</p>
+					</div>
+				</a>
+			</div>
+		</volist>
+		<div class="pagination">{$page}</div>
+		<!-- <div class="pagination"><span class="totalNum">32</span>&nbsp;条记录 &nbsp;1/4页 &nbsp; <a href="####">下一页</a> <a class="pageNum" href="####">1</a><a class="pageNum" href="####">2</a><a class="pageNum" href="####">3</a><a class="pageNum" href="####">4</a></div> -->
+	</div>
+	<!--end一行-->
+
+</div>
+<!--end文件底-->
+<include file="./App/Tpl/Public/footer.html" />

@@ -1,0 +1,429 @@
+[ 2017-08-01T09:02:55+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-08-01T09:35:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Intro/5
+ERR: 非法操作:5
+
+[ 2017-08-01T09:36:52+08:00 ] 0.0.0.0 /zhonghai/admin.php/Intro/5
+ERR: 非法操作:5
+
+[ 2017-08-01T09:36:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Intro/5
+ERR: 非法操作:5
+
+[ 2017-08-01T09:37:11+08:00 ] 0.0.0.0 /zhonghai/admin.php/Intro/5
+ERR: 非法操作:5
+
+[ 2017-08-01T09:37:15+08:00 ] 0.0.0.0 /zhonghai/admin.php/Intro/5
+ERR: 非法操作:5
+
+[ 2017-08-01T09:38:18+08:00 ] 0.0.0.0 /zhonghai/admin.php/Intro/5
+ERR: 非法操作:5
+
+[ 2017-08-01T09:38:20+08:00 ] 0.0.0.0 /zhonghai/admin.php/Intro/5
+ERR: 非法操作:5
+
+[ 2017-08-01T09:39:15+08:00 ] 0.0.0.0 /zhonghai/admin.php/Intro/5
+ERR: 非法操作:5
+
+[ 2017-08-01T10:05:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/Image/sfda
+ERR: 非法操作:sfda
+
+[ 2017-08-01T10:45:46+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-08-01T13:22:57+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-08-01T13:37:05+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-08-01T14:05:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-08-01T17:01:27+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-08-01T17:18:22+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/css/style.default.css
+ERR: 非法操作:css
+
+[ 2017-08-01T17:18:22+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.validate.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:23+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:23+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:23+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:23+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:23+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.tagsinput.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:23+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/charCount.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:23+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/ui.spinner.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:23+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/chosen.jquery.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:23+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:23+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/forms.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/css/style.default.css
+ERR: 非法操作:css
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.validate.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.tagsinput.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/charCount.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/ui.spinner.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/chosen.jquery.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/forms.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/css/style.default.css
+ERR: 非法操作:css
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.validate.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.tagsinput.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/charCount.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/ui.spinner.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/chosen.jquery.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:18:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/forms.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:25:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:31:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/css/style.default.css
+ERR: 非法操作:css
+
+[ 2017-08-01T17:31:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:31:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:31:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:31:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:31:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:31:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:31:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/tables.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:00+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:00+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:00+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:00+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:00+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/css/style.default.css
+ERR: 非法操作:css
+
+[ 2017-08-01T17:32:00+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:00+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:00+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/tables.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:34+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/css/style.default.css
+ERR: 非法操作:css
+
+[ 2017-08-01T17:32:34+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:34+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:34+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:34+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:34+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:34+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:32:34+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/tables.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/tables.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:08+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:08+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.dataTables.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:08+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:08+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:08+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:08+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:34:08+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/tables.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/css/style.default.css
+ERR: 非法操作:css
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.validate.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.tagsinput.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/charCount.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/ui.spinner.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/chosen.jquery.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/forms.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/css/style.default.css
+ERR: 非法操作:css
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.validate.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.tagsinput.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/charCount.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/ui.spinner.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/chosen.jquery.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:35:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/forms.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:40:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/css/style.default.css
+ERR: 非法操作:css
+
+[ 2017-08-01T17:40:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:40:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:40:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:40:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:40:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/jquery.alerts.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:40:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/plugins/tinymce/jquery.tinymce.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:40:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:47:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Index/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:47:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Index/css/style.default.css
+ERR: 非法操作:css
+
+[ 2017-08-01T17:47:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Index/js/plugins/jquery.flot.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:47:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Index/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:47:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Index/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:47:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Index/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:47:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Index/js/plugins/jquery.flot.resize.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:47:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Index/js/plugins/jquery.slimscroll.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:47:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Index/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:47:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Index/js/custom/dashboard.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:59:42+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/js/plugins/jquery.cookie.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:59:42+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/js/plugins/jquery-ui-1.8.16.custom.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:59:42+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/js/plugins/jquery-1.7.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:59:42+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/js/plugins/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:59:42+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/js/custom/general.js
+ERR: 非法操作:js
+
+[ 2017-08-01T17:59:42+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/css/style.default.css
+ERR: 非法操作:css
+
+[ 2017-08-01T17:59:42+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/js/custom/index.js
+ERR: 非法操作:js
+
+[ 2017-08-01T22:30:58+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/edit/id/1
+ERR: 模板不存在[./Admin/Tpl/Server/edit.html]
+
+[ 2017-08-01T22:35:58+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/edit/id/35
+ERR: 模板不存在[./Admin/Tpl/Server/edit.html]
+
+[ 2017-08-01T23:12:29+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/edit/id/1
+ERR: 模板不存在[./Admin/Tpl/Server/edit.html]
+
+[ 2017-08-01T23:36:18+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/edit/id/1
+ERR: 模板不存在[./Admin/Tpl/Server/edit.html]
+

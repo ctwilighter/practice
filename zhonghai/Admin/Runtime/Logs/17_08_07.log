@@ -1,0 +1,810 @@
+[ 2017-08-07T00:35:58+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+NOTIC: [8] Undefined index: data C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 147 行.
+
+[ 2017-08-07T00:38:11+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:38:29+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:40:04+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:40:17+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:40:25+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:40:47+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:41:06+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:41:44+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:41:53+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:43:21+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:43:41+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:45:05+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:45:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T00:47:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T00:47:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001184s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T00:52:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T00:55:47+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T00:55:57+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T00:57:27+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T00:57:39+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T08:56:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T08:58:08+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T08:58:47+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T09:05:44+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T09:05:53+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+
+[ 2017-08-07T09:08:57+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T09:09:21+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T09:13:14+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T09:13:17+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+NOTIC: [8] Undefined index: formData C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 145 行.
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T09:13:52+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T09:14:37+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+
+[ 2017-08-07T09:15:34+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+
+[ 2017-08-07T09:16:10+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+
+[ 2017-08-07T09:42:41+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+
+[ 2017-08-07T09:44:13+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-08-07T09:44:21+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+
+[ 2017-08-07T09:44:47+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-08-07T09:45:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-08-07T09:46:13+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T09:46:57+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001046s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T09:53:23+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T09:53:38+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T09:53:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T09:54:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+
+[ 2017-08-07T10:00:15+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+NOTIC: [2] Missing argument 1 for Action::ajaxReturn(), called in C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php on line 150 and defined C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Action.class.php 第 306 行.
+NOTIC: [8] Undefined variable: data C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2017-08-07T10:01:06+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-08-07T10:01:35+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:03:11+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:03:47+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:04:48+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:08:49+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:16:37+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:16:56+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:17:25+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:18:56+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001217s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:19:55+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T10:20:40+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T10:21:14+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+NOTIC: [8] Undefined index: id C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 146 行.
+
+[ 2017-08-07T10:21:37+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:49:36+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:50:05+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:50:19+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:50:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:53:18+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:54:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 150 行.
+
+[ 2017-08-07T10:54:21+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+
+[ 2017-08-07T10:54:25+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+
+[ 2017-08-07T10:54:41+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+
+[ 2017-08-07T11:00:08+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+
+[ 2017-08-07T11:00:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+
+[ 2017-08-07T11:00:52+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+
+[ 2017-08-07T11:01:02+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+
+[ 2017-08-07T11:01:36+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000652s ]
+
+[ 2017-08-07T11:02:03+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+
+[ 2017-08-07T11:02:12+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-08-07T11:04:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-08-07T11:04:47+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-08-07T11:12:37+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-08-07T11:12:55+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-08-07T11:14:57+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-08-07T11:15:11+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+
+[ 2017-08-07T11:21:16+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-08-07T11:21:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-08-07T11:22:22+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.011362s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\zhonghai\Admin\Lib\Action\AdminAction.class.php 第 161 行.
+
+[ 2017-08-07T11:23:06+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.020286s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987dd1acb37f.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001961s ]
+
+[ 2017-08-07T11:26:01+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.009369s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987ddc9dc0e5.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001609s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000241s ]
+
+[ 2017-08-07T11:26:28+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+
+[ 2017-08-07T11:41:24+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.008531s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987e164d59f9.jpg' WHERE ( `id` = 1 ) [ RunTime:0.002329s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000225s ]
+
+[ 2017-08-07T11:46:50+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.011725s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987e2aa6729b.jpg' WHERE ( `id` = 1 ) [ RunTime:0.002143s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000244s ]
+
+[ 2017-08-07T11:52:39+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.009503s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987e407539b4.jpg' WHERE ( `id` = 1 ) [ RunTime:0.002048s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000211s ]
+
+[ 2017-08-07T11:55:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.008768s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987e4bf7862c.jpg' WHERE ( `id` = 1 ) [ RunTime:0.002284s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000285s ]
+
+[ 2017-08-07T12:01:32+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.009070s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987e61ab6824.jpg' WHERE ( `id` = 1 ) [ RunTime:1.604030s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000781s ]
+
+[ 2017-08-07T12:40:00+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.012153s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987ef201f771.jpg' WHERE ( `id` = 1 ) [ RunTime:0.002623s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000250s ]
+
+[ 2017-08-07T12:43:49+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.014309s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f0057780f.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001607s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000255s ]
+
+[ 2017-08-07T12:44:12+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.009106s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f01c6754f.jpg' WHERE ( `id` = 1 ) [ RunTime:0.002607s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000248s ]
+
+[ 2017-08-07T12:44:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.008962s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f03d00897.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001458s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000188s ]
+
+[ 2017-08-07T12:44:45+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/data
+ERR: 非法操作:data
+
+[ 2017-08-07T12:45:01+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000997s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.012366s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f04d85bd7.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001718s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000224s ]
+
+[ 2017-08-07T12:45:49+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.009122s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f07de89ad.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001475s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000220s ]
+
+[ 2017-08-07T12:46:39+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.021826s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f0af42433.jpg' WHERE ( `id` = 1 ) [ RunTime:0.002117s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000216s ]
+
+[ 2017-08-07T12:47:08+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.018971s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f0cc42fb7.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001618s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000214s ]
+
+[ 2017-08-07T12:48:20+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.010121s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f1147c862.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001693s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000238s ]
+
+[ 2017-08-07T12:48:27+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.013444s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f11b65c92.jpg' WHERE ( `id` = 1 ) [ RunTime:0.002085s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000322s ]
+
+[ 2017-08-07T12:48:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.009336s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f1215ef41.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001674s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000229s ]
+
+[ 2017-08-07T12:49:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.021750s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f143b2cc7.jpg' WHERE ( `id` = 1 ) [ RunTime:0.002019s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000274s ]
+
+[ 2017-08-07T12:52:36+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.009339s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f21411b08.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001713s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000211s ]
+
+[ 2017-08-07T12:54:38+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.018531s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f28e1021f.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001650s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000247s ]
+
+[ 2017-08-07T12:56:06+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.025749s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f2e651572.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001691s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000220s ]
+
+[ 2017-08-07T12:58:43+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.010226s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f383699e4.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001510s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000298s ]
+
+[ 2017-08-07T12:59:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000609s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.009370s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f3ae6840f.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001653s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000221s ]
+
+[ 2017-08-07T12:59:55+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.010619s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f3cb4c602.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001593s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000235s ]
+
+[ 2017-08-07T13:00:17+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-08-07T13:00:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.009154s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f3eae3b81.jpg' WHERE ( `id` = 1 ) [ RunTime:0.002320s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000231s ]
+
+[ 2017-08-07T13:00:30+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.010350s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f3ee3ed88.jpg' WHERE ( `id` = 1 ) [ RunTime:0.002320s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000290s ]
+
+[ 2017-08-07T13:00:34+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.020200s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/5987f3f2d4da1.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001741s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000238s ]
+

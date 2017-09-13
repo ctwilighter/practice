@@ -1,0 +1,128 @@
+<include file="./App/Tpl/Public/header.html" />
+<!--end头文件-->
+<!-- nav -->
+<include file="./App/Tpl/Public/nav.html" />
+<!-- end nav -->
+<!--star动画-->
+<div class="banner">
+	<ul class="bd">
+		<li><a href="###"><img src="<?php echo IMG_URL;?>banner/01.png" alt=""></a></li>
+		<li><a href="###"><img src="<?php echo IMG_URL;?>banner/01.png" alt=""></a></li>
+		<li><a href="###"><img src="<?php echo IMG_URL;?>banner/01.png" alt=""></a></li>
+		<li><a href="###"><img src="<?php echo IMG_URL;?>banner/01.png" alt=""></a></li>
+	</ul>
+<ul class="hd"></ul>
+</div>
+<!--end动画-->
+<!--star一行-->
+<div class="w_1200">
+<div class="services">
+	<div class="service_item item1"><img src="<?php echo IMG_URL;?>1.png">
+		<div class="title">服务理念/<span class="title_eng">SERVICE CONCEPT</span></div>
+		<ul>
+			<li><a href="desc.html#service_idea">公司服务理念：以人为本、诚实守信、用心服务</a></li>
+			<li><a href="desc.html#service_idea">服务宗旨：尽我所能履行合同,用高素质的人才...</a></li>
+			<li><a href="desc.html#service_idea">服务工作准则：首先尽责制：不问责任，首先服...</a></li>
+			<li><a href="desc.html#service_idea">服务热线：客户服务中心电话0773--2293029</a></li>
+		</ul>
+	</div>
+	<div class="service_item item2"><img src="<?php echo IMG_URL;?>2.png">
+		<div class="title">招聘信息/<span class="title_eng">RECRUITMENT INFORMATION</span></div>
+		随着公司的进一步发展，我们需要大量优秀人才的加入！我们始终贯彻... <br>
+只要您有梦想，只要您有实力，我们就能为您提供一个让梦想成真的舞台...
+<!-- 		<div><div class="left">空间要素：</div>
+<div class="right">空间合理化并给人们以美的感受是设计的
+	基本任务，我们要勇于探索时代技术赋于
+	空间的新形象，不要拘泥于过去形成的空
+	间形象。
+</div>
+<div class="left">色彩要求：</div><div class="right">室内色彩除对视觉环境产生影响外还..</div></div> -->
+		<div class="clear"></div>
+		<a href="{:U('Recruit/recruit')}"><div class="more">更多</div></a>
+	</div>
+	<div class="service_item item3"><img src="<?php echo IMG_URL;?>3.png">
+		<div class="title">家政服务/<span class="title_eng">DOMESTIC SERVICE</span></div>
+		<div class="item clean">
+			<div class="left">家庭保洁</div>
+			<div class="right"><a href="###" class="detail">详情介绍>></a></div>
+		</div>
+		<div class="clear"></div>
+		<div class="item fix">
+			<div class="left">维修服务</div>
+			<div class="right"><a href="###" class="detail">详情介绍>></a></div>
+		</div>
+		<div class="clear"></div>
+		<div class="item housekeep">
+			<div class="left">高级管家</div>
+			<div class="right"><a href="###" class="detail">详情介绍>></a></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="icons">
+	<div class="item"><a href="desc.html"><img src="<?php echo IMG_URL;?>about_us.png" alt=""><div>关于我们</div></a></div>
+	<div class="item"><a href="{:U('Recruit/recruit')}"><img src="<?php echo IMG_URL;?>hire.png" alt=""><div>人才招聘</div></a></div>
+	<div class="item"><a href="{:U('Article/news')}"><img src="<?php echo IMG_URL;?>news.png" alt=""><div>最新消息</div></a></div>
+	<div class="item"><a href="{:U('Server/server')}"><img src="<?php echo IMG_URL;?>service.png" alt=""><div>特色服务</div></a></div>
+	<div class="item"><a href="{:U('Server/server')}"><img src="<?php echo IMG_URL;?>management.png" alt=""><div>物业管理</div></a></div>
+	<div class="item"><a href="{:U('Index/contact')}"><img src="<?php echo IMG_URL;?>contact_us.png"><div>联系我们</div></a></div>
+	<div class="clear"></div>
+</div>
+<div class="service_project">
+	<div class="title">
+		<span class="line"></span><div class="word">服务项目<br><span class="word_eng">SERVICE PROJECT</span> </div></div>
+		<div class="content">
+			<foreach name='server' item='data'>
+				<div class="item"><a href="server.html"><img src="{$data['image']}" alt=""></a><p>{$data['name']}</p></div><!-- <div class="blank"></div> -->
+			</foreach>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="corporate_news">
+		<div class="title">
+			<span class="line"></span><div class="word">企业新闻<br><span class="word_eng">CORPORATE NEWS</span> </div></div>
+			<div class="content">
+			<volist name='news' id='vo'>
+				<div class="item ">
+					<div class="title"><img src="<?php echo IMG_URL;?>edit.png">{$vo['title']}</div>
+					<a href="{:U('Article/news')}">
+					<div class="content">{$vo['desc']}</div></a>
+				</div>
+			</volist>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<!--end一行-->
+<script>
+	$('.pop').on('click',function(e){
+		//console.log(e);
+		//console.log(e.target);
+		//console.log(this);
+		if(e.target==this){
+			//console.log("fire!");
+			this.style.display = "none";
+		}
+	});
+	var $details = $('.detail');
+	$('.detail').on('click',function(){
+		var index = $details.index(this);
+		var title;
+		switch(index){
+			case 0:
+				title = "家庭保洁";
+				break;
+			case 1:
+				title = "维修服务";
+				break;
+			case 2:
+				title = "高级管家";
+				break;
+		}
+		$('.pop .title').text(title);
+		$('.pop').show();
+	})
+
+</script>
+<include file="./App/Tpl/Public/footer.html" />

@@ -1,0 +1,85 @@
+[ 2017-08-16T17:34:04+08:00 ] 0.0.0.0 /zhonghai/admin.php/admin/css/style.contrast.css
+ERR: 非法操作:css
+
+[ 2017-08-16T17:34:08+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editstatus
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.019251s ]
+SQL: UPDATE `zh_admin` SET `status`=1 WHERE ( `id` = 1 ) [ RunTime:0.002131s ]
+
+[ 2017-08-16T17:34:19+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editstatus
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.011778s ]
+SQL: UPDATE `zh_admin` SET `status`=0 WHERE ( `id` = 1 ) [ RunTime:0.001650s ]
+
+[ 2017-08-16T17:36:47+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/css/style.contrast.css
+ERR: 非法操作:css
+
+[ 2017-08-16T17:36:59+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/css/style.contrast.css
+ERR: 非法操作:css
+
+[ 2017-08-16T17:37:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/article/css/style.contrast.css
+ERR: 非法操作:css
+
+[ 2017-08-16T17:37:21+08:00 ] 0.0.0.0 /zhonghai/admin.php/article/css/style.contrast.css
+ERR: 非法操作:css
+
+[ 2017-08-16T17:37:26+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/css/style.contrast.css
+ERR: 非法操作:css
+
+[ 2017-08-16T17:37:31+08:00 ] 0.0.0.0 /zhonghai/admin.php/article/css/style.contrast.css
+ERR: 非法操作:css
+
+[ 2017-08-16T17:37:33+08:00 ] 0.0.0.0 /zhonghai/admin.php/admin/css/style.contrast.css
+ERR: 非法操作:css
+
+[ 2017-08-16T17:43:44+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.008390s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/599413d04dd43.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001564s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000202s ]
+
+[ 2017-08-16T17:43:51+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.009235s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/599413d708c93.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001846s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000215s ]
+
+[ 2017-08-16T17:43:57+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000849s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.007998s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/599413dd3ed2a.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001573s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000197s ]
+
+[ 2017-08-16T17:44:03+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `zh_admin` [ RunTime:0.019873s ]
+SQL: UPDATE `zh_admin` SET `img`='__ROOT__/Public/Uploads/image/599413e38a4f8.jpg' WHERE ( `id` = 1 ) [ RunTime:0.001837s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp\www\zhonghai\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `zh_admin` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000234s ]
+
+[ 2017-08-16T17:44:07+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/editPic
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+

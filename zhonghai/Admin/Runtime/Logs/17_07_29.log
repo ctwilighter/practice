@@ -1,0 +1,24 @@
+[ 2017-07-29T12:19:27+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-07-29T12:49:41+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-07-29T12:51:47+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-07-29T12:51:52+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-07-29T12:52:02+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-07-29T12:52:34+08:00 ] 0.0.0.0 /zhonghai/admin.php/Admin/edit/id/1
+ERR: 模板不存在[./Admin/Tpl/Admin/edit.html]
+
+[ 2017-07-29T22:47:03+08:00 ] 0.0.0.0 /zhonghai/admin.php/Login/%3Cphp%20echo%20SITE_URL;?%3Escripts/global.js
+ERR: 非法操作:
+
+[ 2017-07-29T23:59:17+08:00 ] 0.0.0.0 /zhonghai/admin.php/Server/edit/id/1
+ERR: 模板不存在[./Admin/Tpl/Server/edit.html]
+
