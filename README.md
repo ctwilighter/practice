@@ -3,7 +3,6 @@ Learning must be combined with practice
 
 学习实践专用库。
 
-## JavaScript | PHP | HTML_and_CSS
 根据学习的语言进行分类，其中包含学习日志和各类小Demo
 
 ## Log
