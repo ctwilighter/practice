@@ -11,6 +11,30 @@
 返回顶部效果
 > 主要代码如下
 
+HTML部分
+```html
+<a href="Javascript:;" id="btn"></a>
+```
+
+CSS部分
+```css
+#btn{
+	width: 40px;
+	height: 40px;
+	position: fixed;
+	display: none;
+	left: 50%;
+	margin-left: 610px;
+	bottom: 30px;
+	background: url(../images/top_bg.png) no-repeat left top;
+}
+
+#btn:hover{
+	background: url(../images/top_bg.png) no-repeat left -40px;
+}
+```
+
+Javascript部分
 ```javascript
 function backToTop() {
   var obtn = document.getElementById('btn');
