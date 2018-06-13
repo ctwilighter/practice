@@ -620,7 +620,7 @@ function checkScrollSlide() {
 }
 ```
 jQuery写法
-```jQuery
+```javascript
 $(window).on('load',function(){
 	waterfall();
 	var dataInt = {'data':[{'src':'0.jpg'},{'src':'1.jpg'},{'src':'2.jpg'},{'src':'3.jpg'},{'src':'4.jpg'}]};//模拟后台返回的json数据
